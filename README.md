@@ -17,11 +17,3 @@ Clase ServidorChat
 Clase ClienteChat
 
 Uso de hilos para evitar bloqueo en la recepción y envío de mensajes.
-
-Código simple y fácil de ejecutar.
-
-Requisitos
-
-Python 3 (recomendado 3.8 o superior)
-
-No requiere librerías externas
